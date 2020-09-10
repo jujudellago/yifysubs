@@ -32,7 +32,8 @@ module Yifysubs
   #
   extend self
 
-  ENDPOINT     = "https://www.yifysubtitles.com"
+  #ENDPOINT     = "https://www.yifysubtitles.com"
+  ENDPOINT     = "https://yts-subs.com"
   RELEASE_PATH = "subtitles/release"
   IMDB_PATH = "movie-imdb"
 
